@@ -1,6 +1,4 @@
-Certainly! Here's a description for your GitHub repository that describes the Personalized News Chatbot project using FastAPI, News API, and ChatGPT in a clear and appealing manner:
 
----
 
 # Personalized News Chatbot with FastAPI, News API, and ChatGPT
 
