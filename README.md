@@ -1,6 +1,6 @@
 
 
-# Personalized News Chatbot with FastAPI, News API, and ChatGPT
+# Personalized News Chatbot with FastAPI, News API, and ChatGPT (Using LM Studio)
 
 This project demonstrates the development of a personalized news chatbot using FastAPI, the News API for fetching news articles, and ChatGPT for handling natural language interactions. The chatbot allows users to query news articles on topics of interest and engages them in natural conversations.
 
@@ -51,14 +51,5 @@ To run the Personalized News Chatbot locally:
 5. Use the chatbot via API endpoints:
    - Send POST requests to `http://localhost:8000/query/` with JSON data `{"query": "your query here"}` to interact with the chatbot.
 
-## Contributions
 
-Contributions and feedback are welcome! If you have suggestions or want to improve this project, please submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust and expand upon this description based on specific features or details of your implementation. This structure and content should help users understand the purpose of your project and how to get started with it effectively.
